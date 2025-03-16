@@ -1,2 +1,18 @@
-# System-Verilog
-### **System Verilog Repo** 🚀    This repo contains **System Verilog codes and topics** covering digital design and verification. Includes **data types, testbenches, UVM, assertions, coverage, protocols, and more**. Ideal for beginners &amp; experts. Contributions welcome! 🌟 Star this repo to stay updated!
+### **SystemVerilog Repository**  
+
+Welcome to the **SystemVerilog** repository! 🚀  
+
+This repository contains **SystemVerilog codes and topics**, covering various aspects of digital design and verification. Whether you're a beginner or an experienced engineer, you'll find useful examples, testbenches, and explanations to help you understand and implement SystemVerilog concepts effectively.  
+
+### 📌 **Contents**  
+✅ Basic Syntax and Data Types  
+✅ Combinational & Sequential Circuits  
+✅ Testbenches and Verification (UVM, Assertions, Mailboxes)  
+✅ Coverage and Assertions  
+✅ Protocol Implementations  
+✅ Interview Questions & Examples  
+
+### 💡 **Contributions**  
+Feel free to contribute by adding new examples, improving documentation, or sharing insights!  
+
+🔗 **Stay Updated**: Star ⭐ this repo for the latest updates!
